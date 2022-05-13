@@ -5,7 +5,7 @@ public class Artificial_v3 {
 
         System.out.println("[인공지능 프로그램 V3]");
         System.out.println("==============================");
-        System.out.print("[안내] 인공지능 프로그램에 할당된 데이터");
+        System.out.println("[안내] 인공지능 프로그램에 할당된 데이터");  //한칸 띄기 수정
 
         // 문제에서 주어진 값 그대로 출력
         for (int i = 0; i < xy_lists[0].length; i++) {
